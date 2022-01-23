@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ultimatexilliam" alt="ultimatexilliam" /></a> </p>
 
-- 🔭 I’m currently working on [Suomhosty.fi](suomhosty.fi)
+- 🔭 I’m currently working on [Suomhosty.fi](https://suomhosty.fi)
 
 - 🌱 I’m currently learning about **C# and JS**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ultimatexilliam](https://github.com/ultimatexilliam)
 
-- 📝 I actively use [Discord](Discord)
+- 📝 I actively use [Discord](https://discord.gg/)
 
 - 💬 Ask me about **anything :)**
 
