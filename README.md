@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Suomhosty.fi](suomhosty.fi)
 
-- 🌱 I’m currently learning **C# and JS**
+- 🌱 I’m currently learning about **C# and JS**
 
 - 🛡️ I’m currently moderating [Suomhosty's Discord server (Finnish only)](https://discord.gg/Z7XNw9aHgm)
 
-- 🤝 I’m looking for help with **YOU'R Py/HTML project**
+- 🤝 I’m looking for help with **YOU'RE Py/HTML project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ultimatexilliam](https://github.com/ultimatexilliam)
 
