@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ultimatexilliam" alt="ultimatexilliam" /></a> </p>
 
-- 🔭 I’m currently working on [Suomhosty.fi](https://suomhosty.fi)
+- 🔭 I’m currently working with [MegaMaa](https://megamaa.com)
 
 - 🌱 I’m currently learning about **C# and JS**
 
-- 🛡️ I’m currently moderating [Suomhosty's Discord server (Finnish only)](https://discord.gg/Z7XNw9aHgm)
+- 🛡️ I’m currently moderating [MegaMaa's servers](https://megamaa.com)
 
 - 🤝 I’m looking for help with **YOU'RE Py/HTML project**
 
