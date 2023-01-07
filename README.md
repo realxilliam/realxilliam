@@ -11,7 +11,7 @@
 
 - 🛡️ I’m currently moderating [SuomHosty's servers](https://suomhosty.fi)
 
-- 🤝 I’m looking for help with **YOU'RE Py/HTML project**
+- 🤝 I’m looking to help with **YOURE Py/HTML project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ultimatexilliam](https://github.com/ultimatexilliam)
 
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **anything :)**
 
-- 📫 How to reach me **Discord: xilliam#6675**
+- 📫 How to reach me **Discord: xilliam#5991**
 
 - 📄 Read the bee movie script [http://www.script-o-rama.com/movie_scripts/a1/bee-movie-script-transcript-seinfeld.html](http://www.script-o-rama.com/movie_scripts/a1/bee-movie-script-transcript-seinfeld.html)
 
