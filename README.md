@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm ultimatexilliam</h1>
-<h3 align="center">I'm a fullstack developer from Finland</h3>
+<h3 align="center">I'm a fullstack developer from Finland and this page IS NOT up to date</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ultimatexilliam&label=Profile%20views&color=0e75b6&style=flat" alt="ultimatexilliam" /> </p>
 
