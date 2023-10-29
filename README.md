@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Reach me by Discord! (xilliam_)**
 
-- ⚡ Fun fact **No body laughs at my jokes**
+- ⚡ Fun fact **Nobody laughs at my jokes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
