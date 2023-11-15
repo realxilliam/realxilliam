@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm xilliam 👋</h1>
 <h3 align="center">I'm a bad coder from Finland, that tries his best</h3>
 
-- 🔭 I’m currently working on [Soursa](https://github.com/HassyTeam/Soursa)
+- 🔭 I’m currently working on a non-released MC server 🤫
 
 - 🌱 I’m currently learning **JS**
 
