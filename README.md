@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm xilliam 👋</h1>
 <h3 align="center">I'm a bad coder from Finland, that tries his best</h3>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I7TU9K9)
 - 🔭 I’m currently working on a non-released MC server 🤫
 
 - 🌱 I’m currently learning **JS**
