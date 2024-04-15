@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Finland</h3>
 
 <center>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Believer+in+open+source+future;Frontend+web+dev;Tauri+for+desktop+apps;One+of+the+founders+of+Hassyteam;Finnish)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Believer+in+the+open+source+future+%F0%9F%8C%90;Frontend+web+dev+%F0%9F%96%8C%EF%B8%8F;Tauri+for+desktop+apps+%F0%9F%96%A5%EF%B8%8F;One+of+the+founders+of+Hassyteam+%F0%9F%8F%A2;From+Finland+%F0%9F%87%AB%F0%9F%87%AE" alt="Typing SVG" /></a>
 </center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realxilliam&label=Profile%20views&color=0e75b6&style=flat" alt="realxilliam" /> </p>
