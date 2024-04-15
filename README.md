@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm xilliam</h1>
 <h3 align="center">A passionate frontend developer from Finland</h3>
 
-<div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Believer+in+open+source+future;Frontend+web+dev;Tauri+for+desktop+apps;One+of+the+founders+of+Hassyteam;Finnish)](https://git.io/typing-svg)</div>
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Believer+in+open+source+future;Frontend+web+dev;Tauri+for+desktop+apps;One+of+the+founders+of+Hassyteam;Finnish)](https://git.io/typing-svg)
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realxilliam&label=Profile%20views&color=0e75b6&style=flat" alt="realxilliam" /> </p>
 
